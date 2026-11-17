@@ -80,7 +80,7 @@
     "jszip": "^3.10.2",
     "lucide-react": "^1.66.0",
     "marked": "^18.1.2",
-    "next": "^16.4.3",
+    "next": "^16.4.6",
     "next-intl": "^4.13.3",
     "otpauth": "^9.5.2",
     "pdfjs-dist": "^6.4.299",
